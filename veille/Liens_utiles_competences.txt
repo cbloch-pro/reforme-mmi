@@ -10,7 +10,32 @@ https://www.youtube.com/watch?v=p-l_sVM3UZE 
 
 Liens vers les outils
 
-et aussi : la notion de portfolio
+Premiers éléments de veille identifiés sur les portfolio numériques.
+
+L'approche par compétence que nous allons mettre en place doit faire la place à une évaluation des compétences.
+Cela passe notamment par le recueil de traces ou preuves de compétences qui peuvent être des projets, des travaux personnels, des rapports, des notes de TP, etc. alimentés par les étudiants tout au long de la formation et servant de base à leur évaluation.
+
+Ces traces doivent alimenter un portfolio de compétences qui peut être utilisé pour :
+	•	diffuser ses compétences en ligne, sous forme d'un CV, d'un book ou d'une présentation des réalisations
+	•	suivre et évaluer lors de soutenances (fin de semestre ou d'année) les compétences des étudiants
+
+Il existe deux principaux outils opensource pour cela : Mahara et Karuta
+	•	Karuta semble bien corresponde à l'approche compétences et à l'évaluation des compétences au suivi par l'équipe pédagogique
+	•	Mahara semble plus adapté à ce qui est fait en PPP pour mettre son CV en valeur et le publier.
+
+Voici quelques liens pour aller plus loin :
+	•	https://karuta-france-portfolio.fr/
+	•	https://mahara.org/
+	•	https://blogs.lyceecfadumene.fr/informatique/les-fiches-du-cours/les-fiches-moodle-et-mahara/
+	•	comparaison Mahara vs Karuta 
+    https://karuta-france-portfolio.fr/karuta-et-mahara-2-outils-open-source-de-qualite-pour-les-competences-lequel-choisir/
+
+	•	le porte-folio comme outils d'évaluation
+    https://karuta-france-portfolio.fr/project/eportfolio-apprentissage-evaluation-polytech-annecy-chambery-usmb/
+
+
+
+et aussi : en complément sur la notion de portfolio
  https://suptice.univ-rennes1.fr/eportfolio récent 
 et 1 lien ancien (2009) https://eduscol.education.fr/numerique/dossier/archives/portfolionumerique
 
